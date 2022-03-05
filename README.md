@@ -1,1 +1,1 @@
-# Threads-and-Locking-Examples-in-Java
+# Threads and Locking Examples in Java
